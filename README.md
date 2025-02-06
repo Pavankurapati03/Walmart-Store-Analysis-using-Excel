@@ -1,6 +1,6 @@
-# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# Raju-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 ## Project Objective
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+The Raju Store wants to create an annual sales report for 2022. So that, the owner of the Raju store can understand their customers and grow more sales in 2023 & 2024.
 
 ## Dataset used
 - <a href="https://docs.google.com/spreadsheets/d/1N_Aa45UnkPmnwGqNr6oTzvUhb5TKlitM/edit?gid=1081836936#gid=1081836936">Dataset</a>
